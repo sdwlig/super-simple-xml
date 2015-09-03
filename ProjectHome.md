@@ -1,0 +1,3 @@
+This is a very small, fast XML parsing library with a mini-XPath-like API.  It is a single Java file, includes a built-in SAX parser (or the default SAX parser can be used), and has a very concise Java API with a few extra functions.  Typical parsing tasks can be done in a few lines of code.
+
+This library is particularly useful for Android projects.  It is being actively developed as needed.  Incremental DOM is next, then parse tree modification.
