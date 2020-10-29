@@ -10,6 +10,7 @@ This is a very small, fast XML parsing library with a mini-XPath-like API. It is
 This library is particularly useful for Android projects. It is being actively developed as needed. Incremental DOM is next, then parse tree modification.
 
 Usage:
+
       Ssx ssx = new Ssx();
       Ssx.Xml fx;
       Ssx.setDebug(true, true); // Turns on debug/verbose internal Ssx trace.
